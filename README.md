@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PabloPerezA
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in Data Analytics and Programming
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects.
 
 
